@@ -1,0 +1,1 @@
+pytest ./testCases/ --html=./Reports/report.html --browser=chrome

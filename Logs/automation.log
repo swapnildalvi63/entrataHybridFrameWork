@@ -1,0 +1,13 @@
+02/22/2024 10: 42: 38 PM: INFO: ***************** Test_001_HomePage_Redirect *****************
+02/22/2024 10: 42: 38 PM: INFO: ***************** Verifying 'entrata' Home Logo redirects to Home Page *****************
+02/22/2024 10: 42: 46 PM: INFO: *****************  Home Page Redirect Test Case Pass *****************
+02/22/2024 10: 42: 46 PM: INFO: ******* Ending Test_001_HomePage_Redirect **********
+02/22/2024 10: 42: 47 PM: INFO: ***************** Test_003_Hover_Solutions_Menu *****************
+02/22/2024 10: 42: 47 PM: INFO: ***************** Hovering on Solutions Menu *****************
+02/22/2024 10: 42: 52 PM: INFO: ***************** Verifying options length after hovering on Solutions Menu *****************
+02/22/2024 10: 42: 52 PM: INFO: ******* Ending Test_003_Hover_Solutions_Menu **********
+02/22/2024 10: 42: 54 PM: INFO: ***************** Test_002_Invalid_Login *****************
+02/22/2024 10: 42: 54 PM: INFO: ***************** Verifying error messages for Property Manager Login Page *****************
+02/22/2024 10: 43: 02 PM: INFO: ********* Login validation *****************
+02/22/2024 10: 43: 02 PM: INFO: ********* Invalid login Test Passed *********
+02/22/2024 10: 43: 02 PM: INFO: ******* Ending Test_002_Invalid_Login **********
